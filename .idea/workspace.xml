@@ -5,18 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="837adc5b-88fa-43c2-96ef-a05f8d58b663" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHT.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HydrationTracker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecipeManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hydrationtracker/model/Recipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hydrationtracker/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hydrationtracker/service/HydrationTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hydrationtracker/service/RecipeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hydrationtracker/service/UserManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PHT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes.json" beforeDir="false" afterPath="$PROJECT_DIR$/recipes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HydrationTracker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RecipeManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users.dat" beforeDir="false" afterPath="$PROJECT_DIR$/users.dat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,10 +37,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2ugpkTXBtoZMcc7Mqkk9Ac9Rx4k" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,9 +56,10 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Asus/Downloads/json-simple-1.1.1.jar",
+    "last_opened_file_path": "E:/json-simple-1.1.1.jar",
     "onboarding.tips.debug.path": "E:/java/PHT/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
